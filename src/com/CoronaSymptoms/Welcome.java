@@ -118,9 +118,5 @@ public class Welcome extends JPanel implements ActionListener {
         Result r = new Result();
 		new Welcome(r);
 		
-	}
-	
-	
-	
-	
+	}	
 }
